@@ -1,0 +1,51 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Cursor Rules for `bokinn2`
+
+## 1. Backend (Laravel, PHP)
+- **Source code:** `app/`
+- **HTTP Controllers:** `app/Http/Controllers/`
+- **Middleware:** `app/Http/Middleware/`
+- **Requests:** `app/Http/Requests/`
+- **Models:** `app/Models/`
+- **Providers:** `app/Providers/`
+- **Migrations:** `database/migrations/`
+- **Seeders:** `database/seeders/`
+- **Factories:** `database/factories/`
+- **Config:** `config/`
+- **Routes:** `routes/`
+- **Views (Blade):** `resources/views/`
+- **Tests:** `tests/`
+
+## 2. Frontend (React, TypeScript)
+- **Main entry:** `resources/js/app.tsx`
+- **Components:** `resources/js/components/`
+- **UI components:** `resources/js/components/ui/`
+- **Pages:** `resources/js/pages/`
+- **Layouts:** `resources/js/layouts/`
+- **Hooks:** `resources/js/hooks/`
+- **Types:** `resources/js/types/`
+- **Utilities:** `resources/js/lib/`
+- **Styles:** `resources/css/`
+
+## 3. Build & Public Assets
+- **Public web root:** `public/`
+- **Vite config:** `vite.config.ts`
+- **Node packages:** `package.json`, `package-lock.json`
+- **PHP packages:** `composer.json`, `composer.lock`
+
+## 4. General Rules
+- Use PSR-4 for PHP autoloading.
+- Use TypeScript for all React code.
+- Use Vite for asset bundling.
+- Use Pest or PHPUnit for tests.
+- Use `.env` for environment variables (not in repo).
+- Keep sensitive data out of version control.
+
+## 5. Ignore
+- `node_modules/`, `vendor/`, `storage/`, `bootstrap/cache/`
+- Build artifacts in `public/build/`
+- IDE/editor config files unless customizing project-wide settings.

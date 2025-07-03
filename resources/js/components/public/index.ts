@@ -1,0 +1,10 @@
+export { HeroSection } from './hero-section';
+export { PartnersSection } from './partners-section';
+export { StatsSection } from './stats-section';
+export { HowToStartSection } from './how-to-start-section';
+export { FeaturesSection } from './features-section';
+export { PaymentMethodsSection } from './payment-methods-section';
+export { TestimonialsSection } from './testimonials-section';
+export { AppCallToActionSection } from './app-call-to-action-section';
+export { PublicNavbar } from './public-navbar';
+export { PublicFooter } from './public-footer'; 

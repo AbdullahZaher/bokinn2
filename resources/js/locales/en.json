@@ -1,0 +1,456 @@
+{
+  "greeting": "Hello",
+  "welcome": "Welcome to Bokinn",
+  "breadcrumbs": {
+    "dashboard": "Dashboard",
+    "customers": "Customers",
+    "plans": "Plans",
+    "domain_requests": "Domain Requests",
+    "app_groups": "App Groups",
+    "apps": "Apps",
+    "blog": "Blog",
+    "admins": "Admins",
+    "settings": "Settings"
+  },
+  "landing": {
+    "hero": {
+      "title": "Book your spot in moments",
+      "description": "A comprehensive booking management system that helps your customers easily reserve appointments or services. Join us and enjoy a smooth and efficient booking experience.",
+      "cta": "Start Now",
+      "dashboard": "Go to Dashboard",
+      "more": "More",
+      "stats": {
+        "activeUsers": "Active Users",
+        "happyClients": "Happy Clients",
+        "bookingsCompleted": "Bookings Completed",
+        "diverseActivities": "Diverse Activities"
+      },
+      "dashboardPreview": "Dashboard Preview",
+      "replaceImage": "Replace with actual dashboard image"
+    },
+    "partners": {
+      "badge": "Our Trusted Partners",
+      "title": "We Collaborate with the Best",
+      "description": "Bokinn platform works with a network of trusted partners to provide the best property and real estate management solutions in the Kingdom",
+      "type": {
+        "officialSupporter": "Official Supporter",
+        "governmentPartner": "Government Partner",
+        "technicalPartner": "Technical Partner",
+        "trustedPlatform": "Trusted Platform"
+      }
+    },
+    "stats": {
+      "badge": "The Numbers Speak for Themselves",
+      "title": "Amazing Statistics of Our Success",
+      "description": "Through the Bokinn platform, we help hotel managers maximize their investments and enhance guest experiences",
+      "discover": "Discover more about our platform",
+      "items": {
+        "hotelsManaged": {
+          "label": "Hotels Managed",
+          "desc": "Efficiently managed through our platform"
+        },
+        "activeClients": {
+          "label": "Active Clients",
+          "desc": "Trust us to manage their properties"
+        },
+        "occupancyRate": {
+          "label": "Occupancy Rate",
+          "desc": "For clients using our platform"
+        },
+        "hotelManagers": {
+          "label": "Hotel Managers",
+          "desc": "Professionals using our platform daily"
+        }
+      }
+    },
+    "howToStart": {
+      "title": "How to Get Started?",
+      "description": "Here are the essential steps to start creating an online store on the Merchants site effectively and easily",
+      "steps": {
+        "1": {
+          "title": "Create Your Store",
+          "desc": "Register. Choose a template. Build from scratch. Customize the design, colors, and fonts. User-friendly interface for your amazing online store. Start now!",
+          "details": "Register. Choose a template. Build from scratch. Customize the design, colors, and fonts. User-friendly interface for your amazing online store. Start now!"
+        },
+        "2": {
+          "title": "Display Your Products",
+          "desc": "Add images, descriptions, and prices for your products or services.",
+          "details": "Bring your products to life easily. Upload, describe, and price them. Organize them for easy browsing. Make an unforgettable impact with irresistible offers."
+        },
+        "3": {
+          "title": "Configure Shopping Experience",
+          "desc": "Customize store design, payment methods, and shipping options.",
+          "details": "Customize the complete shopping experience for your customers. Add multiple payment methods and appropriate shipping options. Design the shopping cart and checkout pages in a smooth and secure way."
+        },
+        "4": {
+          "title": "Secure Transactions & Happy Customers",
+          "desc": "Start selling and receive payments securely.",
+          "details": "Enjoy watching your store grow. Track sales and inventory through an easy dashboard. Provide a secure experience for your customers with an encrypted and trusted payment system."
+        }
+      },
+      "launchTitle": "Launch Your Store",
+      "launchSubtitle": "Online Today!",
+      "cta": "Start Your Free Trial",
+      "trialNote": "No credit card required • 14-day free trial • Cancel anytime"
+    },
+    "features": {
+      "title": "Why Bokinn?",
+      "subtitle": "Complete Hotel Management System",
+      "description": "A professional platform for managing hotel bookings, optimizing occupancy, and providing an exceptional guest experience",
+      "illustration": "Features Illustration",
+      "replaceImage": "Replace with actual image",
+      "cards": {
+        "booking": {
+          "title": "Booking Management",
+          "desc": "Advanced booking system with an intuitive calendar that provides a comprehensive view of occupancy and easy booking modifications."
+        },
+        "payment": {
+          "title": "Integrated Payment Gateway",
+          "desc": "Support for multiple electronic payment methods with complete transaction security and instant booking confirmation."
+        },
+        "guest": {
+          "title": "Guest Management",
+          "desc": "Comprehensive guest database that stores preferences and stay history to provide personalized service on each visit."
+        },
+        "reports": {
+          "title": "Reports and Analytics",
+          "desc": "Smart dashboard with detailed reports on occupancy, revenue, and key performance indicators for informed decision-making."
+        },
+        "direct": {
+          "title": "Direct Bookings",
+          "desc": "Integrated booking website that allows guests to book directly without intermediaries, with full mobile compatibility."
+        },
+        "support": {
+          "title": "24/7 Support",
+          "desc": "Specialized support team ready to assist you at any time to ensure uninterrupted operations and quick problem resolution."
+        }
+      },
+      "moreDetails": "More Details"
+    },
+    "paymentMethods": {
+      "title": "Integrated Payment Methods and Booking Options",
+      "description": "All payment methods you need for your hotel booking platform, with flexible reservation options for guests",
+      "tabs": {
+        "payment": "Payment Methods",
+        "booking": "Booking Options"
+      },
+      "bookingOptions": {
+        "preBooking": {
+          "title": "Pre-booking",
+          "desc": "Book your room in advance with instant booking confirmation"
+        },
+        "payAtArrival": {
+          "title": "Pay at Arrival",
+          "desc": "Book now and pay later when you arrive at the hotel"
+        },
+        "advanceDiscount": {
+          "title": "Advance Discount",
+          "desc": "Get a special discount when paying in full in advance"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "description": "Learn about the experiences of hotels partnered with us and how we've helped them improve their booking management",
+      "managerAt": "Manager at"
+    },
+    "appCta": {
+      "badge": "🚀 Coming soon to app stores",
+      "title": "Managing your hotel easier than ever",
+      "description": "Stay updated with real-time hotel updates, track bookings, monitor sales, and achieve hotel success easily through our upcoming app",
+      "emailPlaceholder": "Enter your email",
+      "notify": "Notify me at launch",
+      "thankYou": "Thank you! We will notify you when the app launches.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store",
+      "comingSoon": "Coming Soon",
+      "comingSoonBadge": "Coming Soon!",
+      "phones": {
+        "booking": "Booking Management",
+        "dashboard": "Dashboard",
+        "analytics": "Analytics"
+      },
+      "features": {
+        "notifications": {
+          "title": "Instant Notifications",
+          "desc": "Receive notifications about new bookings and modifications instantly"
+        },
+        "room": {
+          "title": "Room Management",
+          "desc": "Easily control room availability and pricing anytime, anywhere"
+        },
+        "reports": {
+          "title": "Accurate Reports",
+          "desc": "Analyze hotel performance, occupancy rates, and revenue"
+        },
+        "staff": {
+          "title": "Staff Management",
+          "desc": "Easily organize hotel staff permissions and schedules"
+        }
+      }
+    },
+    "navbar": {
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "about": "About",
+      "dashboard": "Dashboard",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "footer": {
+      "ctaTitle": "Start your journey with Bokinn today!",
+      "ctaDesc": "Transform your hotel management into a smooth and efficient experience",
+      "ctaButton": "Try Bokinn for Free",
+      "solutions": "Bokinn Solutions",
+      "hotels": "Hotels",
+      "resorts": "Resorts",
+      "apartments": "Serviced Apartments",
+      "features": "Features",
+      "bookingSystem": "Booking System",
+      "operations": "Operations Management",
+      "guests": "Guest Management",
+      "reviews": "Review Management",
+      "support": "Support",
+      "help": "Help Center",
+      "training": "Training & Courses",
+      "contact": "Contact Us",
+      "company": "Company",
+      "about": "About Us",
+      "partners": "Our Partners",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "copyright": "© 2024 Bokinn. All rights reserved.",
+      "commercialRegister": "Commercial Register",
+      "companyDesc": "Bokinn - A comprehensive system for managing hotels and resorts, helping you transform your business operations into a smooth and efficient experience."
+    }
+  },
+  "dashboard": {
+    "platform": "Platform",
+    "home": "Home",
+    "customers": "Customers",
+    "packages": "Packages",
+    "domainRequests": "Domain Requests",
+    "appGroups": "App Groups",
+    "apps": "Apps",
+    "blog": "Blog",
+    "admins": "Admins",
+    "settings": "Settings",
+    "repository": "Repository",
+    "documentation": "Documentation",
+    "totalRevenue": "Total Revenue",
+    "sales": "Sales",
+    "activeNow": "Active Now",
+    "overview": "Overview",
+    "recentSales": "Recent Sales",
+    "youMadeSales": "You made 265 sales this month.",
+    "fromLastMonth": "from last month",
+    "sinceLastHour": "since last hour",
+    "chartPlaceholder": "Chart will be displayed here",
+    "oliviaMartin": "Olivia Martin",
+    "jacksonLee": "Jackson Lee",
+    "isabellaNguyen": "Isabella Nguyen",
+    "williamKim": "William Kim",
+    "sofiaDavis": "Sofia Davis",
+    "clients": "Clients",
+    "plans": "Plans",
+    "manageCustomers": "Manage your property management clients and their subscriptions",
+    "addCustomer": "Add Customer",
+    "totalCustomers": "Total Customers",
+    "activeSubscriptions": "Active Subscriptions",
+    "expiredSubscriptions": "Expired Subscriptions",
+    "readyDashboards": "Ready Dashboards",
+    "customerManagement": "Customer Management",
+    "viewAndManage": "View and manage all your property management clients",
+    "searchCustomers": "Search customers...",
+    "filter": "Filter",
+    "id": "ID",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "hotel": "Hotel",
+    "plan": "Plan",
+    "expires": "Expires",
+    "status": "Status",
+    "domain": "Domain",
+    "registered": "Registered",
+    "actions": "Actions",
+    "noHotel": "No Hotel",
+    "noPlan": "No Plan",
+    "lifetime": "Lifetime",
+    "ready": "Ready",
+    "notReady": "Not Ready",
+    "showDomains": "Show domains",
+    "renew": "Renew",
+    "expired": "Expired",
+    "loginAsClient": "Login as client",
+    "editClient": "Edit client",
+    "deleteClient": "Delete client",
+    "managePlans": "Manage subscription plans and pricing for your clients",
+    "addPlan": "Add Plan",
+    "totalPlans": "Total Plans",
+    "activePlans": "Active Plans",
+    "totalSubscriptions": "Total Subscriptions",
+    "averagePrice": "Average Price",
+    "planManagement": "Plan Management",
+    "viewAndManagePlans": "View and manage subscription plans for your clients",
+    "searchPlans": "Search plans...",
+    "price": "Price",
+    "subscriptions": "Subscriptions",
+    "features": "Features",
+    "editPlan": "Edit plan",
+    "deletePlan": "Delete plan",
+    "manageDomainRequests": "Manage domain registration and transfer requests from clients",
+    "addDomainRequest": "Add Domain Request",
+    "totalRequests": "Total Requests",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "awaitingApproval": "Awaiting approval",
+    "domainRequestManagement": "Domain Request Management",
+    "reviewAndManage": "Review and manage domain registration requests from your clients",
+    "searchDomainRequests": "Search domain requests...",
+    "englishName": "English Name",
+    "arabicName": "Arabic Name",
+    "created": "Created",
+    "noActions": "No actions",
+    "approveRequest": "Approve request",
+    "rejectRequest": "Reject request",
+    "organizeAppGroups": "Organize and manage your application groups for better categorization",
+    "addAppGroup": "Add App Group",
+    "totalGroups": "Total Groups",
+    "totalApps": "Total Apps",
+    "multilingual": "Multilingual",
+    "activeGroups": "Active Groups",
+    "acrossAllGroups": "Across all groups",
+    "allGroupsSupport": "All groups support EN/AR",
+    "allGroupsActive": "All groups active",
+    "appGroupManagement": "Application Group Management",
+    "organizeApplications": "Organize your applications into logical groups for better management",
+    "searchAppGroups": "Search app groups...",
+    "appsCount": "Apps Count",
+    "editGroup": "Edit group",
+    "groupSettings": "Group settings",
+    "manageApplications": "Manage your property management applications and modules",
+    "addApp": "Add App",
+    "inMaintenance": "In Maintenance",
+    "organizedCategories": "Organized categories",
+    "underDevelopment": "Under development",
+    "applicationManagement": "Application Management",
+    "manageAndConfigure": "Manage and configure your property management applications",
+    "searchApplications": "Search applications...",
+    "version": "Version",
+    "editApp": "Edit app",
+    "appSettings": "App settings",
+    "manageBlogPosts": "Manage your property management blog posts and content",
+    "newPost": "New Post",
+    "totalPosts": "Total Posts",
+    "published": "Published",
+    "totalViews": "Total Views",
+    "drafts": "Drafts",
+    "livePosts": "Live posts",
+    "inProgress": "In progress",
+    "blogPostManagement": "Blog Post Management",
+    "createEditManage": "Create, edit, and manage your property management blog content",
+    "searchBlogPosts": "Search blog posts...",
+    "title": "Title",
+    "description": "Description",
+    "viewPost": "View post",
+    "externalLink": "External link",
+    "deletePost": "Delete post",
+    "manageSystemAdmins": "Manage system administrators and their permissions",
+    "superAdmins": "Super Admins",
+    "inactive": "Inactive",
+    "currentlyActive": "Currently active",
+    "fullAccess": "Full access",
+    "suspendedAccounts": "Suspended accounts",
+    "administratorManagement": "Administrator Management",
+    "manageSystemAdministrators": "Manage system administrators and their access permissions",
+    "searchAdministrators": "Search administrators...",
+    "role": "Role",
+    "lastLogin": "Last Login",
+    "administrator": "Administrator",
+    "editAdmin": "Edit admin",
+    "deleteAdmin": "Delete admin",
+    "never": "Never",
+    "configureSystemSettings": "Configure system-wide settings and configurations",
+    "configuration": "Configuration",
+    "basicInfo": "Basic Info",
+    "contactMethods": "Contact Methods",
+    "whatsappService": "WhatsApp Service",
+    "security": "Security",
+    "configured": "Configured",
+    "available": "Available",
+    "configurable": "Configurable",
+    "protected": "Protected",
+    "basicInformation": "Basic Information",
+    "configureSystemName": "Configure system name, description, and basic settings",
+    "systemName": "System Name",
+    "enterSystemName": "Enter system name",
+    "timezone": "Timezone",
+    "selectTimezone": "Select timezone",
+    "systemDescription": "System Description",
+    "enterSystemDescription": "Enter system description",
+    "language": "Language",
+    "selectLanguage": "Select language",
+    "currency": "Currency",
+    "selectCurrency": "Select currency",
+    "saveBasicInfo": "Save Basic Info",
+    "configureContactInfo": "Configure contact information and communication channels",
+    "emailAddress": "Email Address",
+    "enterEmailAddress": "Enter email address",
+    "phoneNumber": "Phone Number",
+    "enterPhoneNumber": "Enter phone number",
+    "address": "Address",
+    "enterBusinessAddress": "Enter business address",
+    "website": "Website",
+    "enterWebsiteUrl": "Enter website URL",
+    "saveContactMethods": "Save Contact Methods",
+    "configureWhatsappApi": "Configure WhatsApp Business API integration and messaging",
+    "enableWhatsappService": "Enable WhatsApp Service",
+    "allowCustomersContact": "Allow customers to contact you via WhatsApp",
+    "apiKey": "API Key",
+    "enterWhatsappApiKey": "Enter WhatsApp API key",
+    "webhookUrl": "Webhook URL",
+    "enterWebhookUrl": "Enter webhook URL",
+    "saveWhatsappSettings": "Save WhatsApp Settings",
+    "dashboard": "Dashboard",
+    "propertyManagementDashboard": "Property Management Dashboard",
+    "managePropertiesClients": "Manage your properties, clients, and business operations",
+    "addProperty": "Add Property",
+    "totalClients": "Total Clients",
+    "viewAll": "View All",
+    "addClient": "Add Client",
+    "systemAdmins": "System Admins",
+    "addAdmin": "Add Admin",
+    "monthlyRevenue": "Monthly Revenue",
+    "properties": "Properties",
+    "activeRentals": "Active Rentals",
+    "reports": "Reports",
+    "recentActivity": "Recent Activity",
+    "latestPropertyActivities": "Latest property management activities and updates",
+    "newClientRegistered": "New client registered",
+    "johnDoeAdded": "John Doe added as a new client",
+    "twoMinutesAgo": "2 min ago",
+    "propertyRented": "Property rented",
+    "apartmentRented": "Apartment #123 has been rented",
+    "fifteenMinutesAgo": "15 min ago",
+    "maintenanceRequest": "Maintenance request",
+    "newMaintenanceTicket": "New maintenance ticket created",
+    "oneHourAgo": "1 hour ago",
+    "quickActions": "Quick Actions",
+    "commonTasksShortcuts": "Common tasks and shortcuts",
+    "addNewProperty": "Add New Property",
+    "registerClient": "Register Client",
+    "scheduleViewing": "Schedule Viewing",
+    "generateReport": "Generate Report",
+    "systemSettings": "System Settings"
+  },
+  "user": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "logout": "Logout"
+  }
+}
